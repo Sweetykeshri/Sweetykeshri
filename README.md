@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sweety Keshri</h1>
-<h3 align="center">Welcome to my Github Profile</h3>
+<h3 align="center">Welcome to My Github Profile</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anshrajpoot&label=Profile%20views&color=0e75b6&style=flat" alt="anshrajpoot" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sweetykeshri&label=Profile%20views&color=0e75b6&style=flat" alt="sweetykeshri" /> </p>
 
 - 📫 How to reach me **sweetykeshri0698@gmail.com**
 
